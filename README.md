@@ -5,7 +5,7 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 
 ### Github stats
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej&exclude_repo=Bitcoin-modeling-with-SARIMA" />
 
 ### Programing languages
 <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  Python <br>
@@ -20,5 +20,4 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 ### Bizness and contact
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: gintowt.bartlomiej@gmail.com
-- :: https://www.facebook.com/bartek.gintowt/
 
