@@ -8,6 +8,8 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 
 [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
+[![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gintowt Bartłomiej)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Toptal
