@@ -4,8 +4,8 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 
 :mailbox: Reach me out!
 
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej">
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej">
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej" />
 
 
 <!-- TODO: Add last video link -->
