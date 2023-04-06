@@ -4,7 +4,7 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 
 :mailbox: Reach me out!
 
-<img  align="left" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif](https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej">
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej">
 
 [![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej)](https://github.com/anuraghazra/github-readme-stats)
 
