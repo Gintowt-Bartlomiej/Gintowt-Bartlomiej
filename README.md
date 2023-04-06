@@ -14,7 +14,7 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain.svg" />  Julia <br>
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />  C++ <br>
 
-### Other technologies:
+### Other technologies
 - Microsoft Office (mainly Excel)
 - SQL (MySQL/MariaDB)
 
