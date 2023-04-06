@@ -10,6 +10,8 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 
 [![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Toptal
