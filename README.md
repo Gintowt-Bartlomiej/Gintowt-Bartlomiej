@@ -8,6 +8,10 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 
 [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+<img  align="left" src="[https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif](https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej)" width="28px" height="28px" alt="hi">
+
 [![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej)](https://github.com/anuraghazra/github-readme-stats)
