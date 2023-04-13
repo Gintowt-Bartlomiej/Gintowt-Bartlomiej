@@ -11,7 +11,7 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 ### Programing languages
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  Python <br>
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />  R <br>
-- <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain.svg" />  Julia <br>
+- <img alt="Python" width="25px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-plain.svg" />  Julia <br>
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />  C++ <br>
 
 ### Other technologies
