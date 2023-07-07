@@ -19,6 +19,5 @@ I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards da
 - SQL (MySQL/MariaDB)
 
 ### Bizness and contact
-- :paperclip: [My Resume/CV](https://github.com/Gintowt-Bartlomiej/Gintowt-Bartlomiej/blob/main/CV.pdf)
 - :email: gintowt.bartlomiej@gmail.com
 
