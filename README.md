@@ -3,11 +3,6 @@
 ### About me
 I'm Bartłomiej Gintowt a passionate data analyst with high ambitions towards data science world. I'm currently 3rd year student of applied mathemathics faculty at Wroclaw University of Science and Technology where I have learned a lot about statistics, data modeling and analysis, time series and more theorethical stuff such as stochastic processes and their use. Furthermore I'm exploring finanses related subjects about financial modeling and risk management.
 
-### Github stats
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Gintowt-Bartlomiej" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gintowt-Bartlomiej&exclude_repo=Bitcoin-modeling-with-SARIMA" />
-<br>
-
 ### Programing languages
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  Python <br>
 - <img alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />  R <br>
